@@ -166,9 +166,7 @@
     height:15%;
   }
   
-   section img:hover{
-    -webkit-filter:  grayscale(100%) brightness(51%);
-  }
+  
   
   @media screen and (max-width: 768px) {
     header, main {
